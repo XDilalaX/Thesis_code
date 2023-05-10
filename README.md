@@ -10,5 +10,5 @@ From Jestar data set 1, the following zipfiles should be downloaded:
 (i) jester_dataset_1_1.zip
 (ii) jester_dataset_1_2.zip
 (iii) jester_dataset_1_3.zip
-4.	Download the code from the github page: 
+4.	Download the code from the github page: https://github.com/XDilalaX/Thesis_code/tree/main
 5.	Run the code!
