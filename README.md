@@ -3,7 +3,7 @@ This repository explains all the steps and code that needs to be used to replica
 -----------------------------------------------------------------------------------------------------------------
 Hardware information: 
 -----------------------------------------------------------------------------------------------------------------
-For this research, the open-source programming language R \cite{2009TeamRC} and the development environment Rstudio \cite{2012LukeT,2012Jeffrey} are used. The whole research has not yet been conducted therefore it could be that other programming languages were used as well. The specific Packages used for this research can be found in the appendix of the final Thesis paper. The used hardware in this work is Intel Core i7-8550U, 2.40 GHz, and 5.00 GHz dual-core x64-based processor with 8.00 GB RAM. 
+For this research, the open-source programming language R and the development environment Rstudio are used. The whole research has not yet been conducted therefore it could be that other programming languages were used as well. The specific Packages used for this research can be found in the appendix of the final Thesis paper. The used hardware in this work is Intel Core i7-8550U, 2.40 GHz, and 5.00 GHz dual-core x64-based processor with 8.00 GB RAM. 
 
 Preparation of hardware: 
 -----------------------------------------------------------------------------------------------------------------
