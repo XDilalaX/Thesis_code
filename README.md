@@ -29,4 +29,4 @@ The whole program used for this research consists of 13 R program files, each fu
 10. Thesis_code_tsne_extension.R: This program shows the code for the extension part of the thesis. This code consists of step 0 up to 4 for the research of the thesis for k-means and AGNES clustering with t-SNE as its dimension reduction technique.
 11. Thesis_code_lle_extension.R: This program shows the code for the extension part of the thesis. This code consists of step 0 up to 4 for the research of the thesis for k-means and AGNES clustering with LLE as its dimension reduction technique.
 12. Thesis_code_isomap_extension.R: This program shows the code for the extension part of the thesis. This code consists of step 0 up to 4 for the research of the thesis for k-means and AGNES clustering with Isomap as its dimension reduction technique.
-13. Thesis_code_optimalclusters.R: This is the code used in order to obtain the optimal cluster count for this research, also known as step 1. 
+13. Dilara_thesis_code_opt_clusters.R: This is the code used in order to obtain the optimal cluster count for this research, also known as step 1. 
