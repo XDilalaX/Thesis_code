@@ -15,7 +15,21 @@ id <- which(jester_dataset_full$user_id == 100) # select complete cases
 
 #Take a subset because you do not want to use the user_id column in you analysis
 jester_dataset_full_subset <- jester_dataset_full[id, 2:101]
+
+# Clean data by removing the specific value from the dataset
+#jester_dataset_full_sample <- jester_dataset_full_change[jester_dataset_full_change != 99]
+
+# Take a random subset from your dataset consisting of 5000 rows
+#set.seed(100) # Set the seed for reproducibility
+
+# Randomly select row indices
+#jester_dataset_full_subset <- matrix(sample(jester_dataset_full_sample, size=5000, replace = FALSE))
+
+# Remove unneeded data
 rm(jester_dataset_full)
+#rm(jester_dataset_full_change)
+#rm(jester_dataset_full_sample)
+
 ####################################################################################################################################################################################
 # Step 1: determine optimal cluster count (k)
 ####################################################################################################################################################################################
